@@ -16,5 +16,5 @@ Built with:
 * [Bootstrap 5](https://getbootstrap.com/)
 <br>
 
-Preview:
+Preview:<br>
 <img align="center" src="https://raw.githubusercontent.com/uxairishere/Calculator-React/main/herokucal.png" alt="gautamkrishnar" height="400" width="300" />
