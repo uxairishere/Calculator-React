@@ -1,8 +1,12 @@
 
 # Calculator-React
+Visit Application:
+<a href=""><img src="" width="" height="" /></a>
+
 Feature: 
 * Simple calculations.
 * Dark and light mode.
+
 Built with:
 * [React](https://reactjs.org/)
 * [JavaScript](https://www.w3schools.com/js/)
@@ -10,4 +14,4 @@ Built with:
 * [CSS](https://www.w3schools.com/css/css_intro.asp)
 * [Bootstrap 5](https://getbootstrap.com/)
 <br>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/uxairishere/Calculator-React/main/herokucal.png" alt="gautamkrishnar" height="300" width="400" />
