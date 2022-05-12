@@ -1,7 +1,7 @@
 
 # Calculator-React
 Visit Application:
-<a href=""><img src="https://raw.githubusercontent.com/uxairishere/Calculator-React/main/calbutton.png" width="30" height="160" /></a>
+<a href=""><img src="https://raw.githubusercontent.com/uxairishere/Calculator-React/main/calbutton.png" width="160" height="40" /></a>
 
 Feature: 
 * Simple calculations.
@@ -16,4 +16,4 @@ Built with:
 <br>
 
 Preview:
-<img align="center" src="https://raw.githubusercontent.com/uxairishere/Calculator-React/main/herokucal.png" alt="gautamkrishnar" height="300" width="600" />
+<img align="center" src="https://raw.githubusercontent.com/uxairishere/Calculator-React/main/herokucal.png" alt="gautamkrishnar" height="600" width="300" />
