@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 # Calculator-React
 Tools and Languages:
 *[React](https://reactjs.org/)
@@ -6,6 +6,6 @@ Tools and Languages:
 *[HTML5]
 *[CSS]
 *[Bootstrap 5](https://getbootstrap.com/)
- </p>
+ </div>
 <br>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" />
